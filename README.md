@@ -5,11 +5,11 @@ a tetris board with tetris tiles.
 ## the tiles used:
   In total there have been 5 pieces used as such:
   
-  The I lengthwise and heightwise
-  The one square position
-  The L in the 4 possible orientations
-  The Z in the 4 possible orientations
-  The T in the 4 possible orientations
+  - The I lengthwise and heightwise
+  - The one square position
+  - The L in the 4 possible orientations
+  - The Z in the 4 possible orientations
+  - The T in the 4 possible orientations
   
   Resulting in a total of 15 distict shapes on the tetris board
 
